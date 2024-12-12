@@ -100,6 +100,14 @@
   }
 }
 
+.avatar__name {
+  display: flex;
+  flex-direction: column; /* 垂直排列头像和名字 */
+  align-items: center; /* 水平居中对齐 */
+  justify-content: center; /* 垂直居中对齐 */
+  text-align: center; /* 使名字和其他文本居中对齐 */
+}
+
 .author__content {
   display: table-cell;
   vertical-align: top;
