@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Hangzhou, Zhejiang, China"
-  employer         : "Zhejiang University"
+  employer         : "<a href='https://www.zju.edu.cn/english/' target='_blank'>Zhejiang University</a>"
   uri              : # URL
-  email            : "3210105397@zju.edu.cn" 
+  email            : "3210105397@zju.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
