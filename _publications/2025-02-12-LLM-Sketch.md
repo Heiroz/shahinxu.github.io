@@ -1,5 +1,5 @@
 ---
-title: "LLM-Sketch:EnhancingNetworkSketcheswithLLM"
+title: "LLM-Sketch:Enhancing Network Sketches with LLM"
 collection: publications
 category: conferences
 permalink: https://arxiv.org/pdf/2502.07495
