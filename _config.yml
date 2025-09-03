@@ -25,10 +25,10 @@ author:
   name             : "Zhen Xu"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "Hangzhou, Zhejiang, China"
-  employer         : "Zhejiang University"
+  location         : "Chapel Hill, NC, USA"
+  employer         : "University of North Carolina at Chapel Hill"
   uri              : # URL
-  email            : "3210105397@zju.edu.cn" 
+  email            : "zhx@cs.unc.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
