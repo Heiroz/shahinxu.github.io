@@ -7,15 +7,6 @@ redirect_from:
   - /about.html
 ---
 
----
-permalink: /
-title: "ABOUT ME"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
-
 I am **Zhen Xu**, a Master's student in Computer Science at the University of North Carolina at Chapel Hill. I am honored to be advised by Professor Tianlong Chen. My current research interests focus on:
 
 - **Large Language Models and Mixture of Experts (MoE)**
@@ -40,7 +31,7 @@ I am **Zhen Xu**, a Master's student in Computer Science at the University of No
       <div style="background: #3498db; color: white; padding: 15px 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); position: relative;">
         <h3 style="margin: 0 0 5px 0; font-size: 1.2em;">🎓 Zhejiang University</h3>
         <p style="margin: 0; font-size: 0.9em; opacity: 0.9;"><strong>2021-2025</strong></p>
-        <p style="margin: 5px 0 0 0; font-size: 0.95em;">B.Eng in Computer Science and Technology<br>College of Computer Science and Technology</p>
+        <p style="margin: 5px 0 0 0; font-size: 0.95em;">B.Eng in Computer Science and Technology</p>
         <!-- Arrow pointing to timeline -->
         <div style="position: absolute; right: -15px; top: 50%; width: 0; height: 0; border-top: 15px solid transparent; border-bottom: 15px solid transparent; border-left: 15px solid #3498db; transform: translateY(-50%);"></div>
       </div>
@@ -57,7 +48,7 @@ I am **Zhen Xu**, a Master's student in Computer Science at the University of No
       <div style="background: #e74c3c; color: white; padding: 15px 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); position: relative;">
         <h3 style="margin: 0 0 5px 0; font-size: 1.2em;">🔬 Research @ Peking University</h3>
         <p style="margin: 0; font-size: 0.9em; opacity: 0.9;"><strong>Summer 2024</strong></p>
-        <p style="margin: 5px 0 0 0; font-size: 0.95em;">Network Measurement Research<br>Advised by Prof. Tong Yang</p>
+        <p style="margin: 5px 0 0 0; font-size: 0.95em;">Network Measurement<br>Advised by Prof. Tong Yang</p>
         <p style="margin: 8px 0 0 0; font-size: 0.85em; opacity: 0.9;">Focused on intelligent data plane and ML-enhanced networking</p>
         <!-- Arrow pointing to timeline -->
         <div style="position: absolute; left: -15px; top: 50%; width: 0; height: 0; border-top: 15px solid transparent; border-bottom: 15px solid transparent; border-right: 15px solid #e74c3c; transform: translateY(-50%);"></div>
