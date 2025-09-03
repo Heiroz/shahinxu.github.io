@@ -78,10 +78,10 @@ author:
 publication_category:
   preprints:
     title: 'Preprints'
-  Year2025:
-    title: '2025'    
-  Year2024:
-    title: '2024'
+  # Year2025:
+  #   title: '2025'    
+  # Year2024:
+  #   title: '2024'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -146,7 +146,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "false"
   google:
     tracking_id          :
 
