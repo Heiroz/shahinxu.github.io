@@ -9,14 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-**+86-15686066676 |** [3210105397@zju.edu.cn](mailto:3210105397@zju.edu.cn) **|** [GitHub: Heiroz](https://github.com/Heiroz)  
-Hangzhou, Zhejiang - 310000, China  
+**+86-15686066676 |** [zhx@cs.unc.edu](mailto:zhx@cs.unc.edu) **|** [GitHub: shahinxu](https://github.com/shahinxu)  
+Hangzhou, Zhejiang - 310000, China
 
 ---
 
-## Objective  
-I am eager to pursue a Ph.D. in Computer Science with a focus on networking and distributed systems, aiming to further leverage my expertise in network measurement and deep learning. I am particularly interested in contributing to innovative research that bridges these areas and addresses real-world challenges.  
-
+<!-- ## Objective  
+I am eager to pursue a Ph.D. in Computer Science with a focus on networking and distributed systems, aiming to further leverage my expertise in network measurement and deep learning. I am particularly interested in contributing to innovative research that bridges these areas and addresses real-world challenges. -->
 ---
 
 ## Education  
@@ -28,15 +27,15 @@ I am eager to pursue a Ph.D. in Computer Science with a focus on networking and 
 
 ---
 
-## Projects  
+## Projects
 
 ### Machine Learning for Sketch  
 **Instructed by Prof. Tong Yang, Peking University (2024.07 - present)**  
-- Developed code for data processing and model training to classify network traffic.  
+- Developed code for data processing and model training to classify network traffic.
 - Optimized models for more accurate measurements in sketch systems.  
-- Conducted CPU and P4 experiments to validate the application of ML in traffic classification.  
+- Conducted CPU and P4 experiments to validate the application of ML in traffic classification.
 
-### Network Traffic Synthesis  
+### Network Traffic Synthesis
 **Instructed by Prof. Tong Yang, Peking University (2024.05 - present)**  
 - Designed a framework using a sparse diffusion model to generate metadata for network traces.  
 - Reduced memory overhead by converting adjacency matrices into edge lists.  

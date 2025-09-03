@@ -24,7 +24,6 @@ I am **Zhen Xu**, a Master's student in Computer Science at the University of No
 <div style="position: relative; margin: 30px 0;">
   <!-- Timeline line -->
   <div style="position: absolute; left: 50%; width: 4px; height: 100%; background: linear-gradient(to bottom, #3498db, #e74c3c, #f39c12); transform: translateX(-50%); border-radius: 2px;"></div>
-  
   <!-- Zhejiang University -->
   <div style="display: flex; align-items: center; margin-bottom: 40px; position: relative;">
     <div style="flex: 1; text-align: right; padding-right: 30px;">
